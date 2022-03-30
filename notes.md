@@ -24,3 +24,6 @@ nanti ada
 cara mengetahui exec/lib, yang exec, harus masuk kedalam package main.
 
 library bisa selain main.
+
+penamaan fungsi di library, harus diawali huruf besar agar bisa diakses dari main.
+jika mengawali dengan huruf kecil tidak bisa diakses dari fungsi main, tapi bisa diakses oleh fungsi lain di dalam file tersebut.
